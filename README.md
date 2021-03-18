@@ -2,8 +2,12 @@
 
 https://www.youtube.com/watch?v=Qp6sxgjA-xY&ab_channel=GoRails
 
+https://github.com/hotwired/hotwire-rails
+
 https://github.com/hotwired/turbo-rails
+
 https://github.com/hotwired/turbo-rails/issues/48
+
 https://www.youtube.com/watch?v=YJPY_jDk-Wg&t=207s&ab_channel=RestaroneSolutions
 
 SETUP
