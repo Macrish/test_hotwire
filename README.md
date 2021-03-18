@@ -14,9 +14,11 @@ SETUP
 
 * important to add
 app/javascript/packs/application.js
-import "@hotwired/turbo-rails"
+
+```import "@hotwired/turbo-rails"```
 * application.rb
-config.action_view.form_with_generates_remote_forms = false
+
+```config.action_view.form_with_generates_remote_forms = false```
 
 * yarn install
 
@@ -27,6 +29,7 @@ rails db:create
 rails db:migrate
 
 ============= IMPORTANT =============
+
 1.
 root_path
 when you send empty form don't forget open

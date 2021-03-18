@@ -6,6 +6,7 @@
     <div class="card-footer bg-transparent border-success">
       Likes (0)
       Retweets(0)
+      <%= link_to 'Edit', edit_tweet_path(tweet), class: 'btn btn-sm btn-danger text-white' %>
       <%= link_to 'Destroy', tweet, method: :delete, data: { confirm: 'Are you sure?' }, class: 'btn btn-sm btn-danger text-white' %>
     </div>
   </div>
