@@ -52,4 +52,3 @@ if not check SETUP above
 
 If you set up right, information on your page will update without page refresh :)
 
-# test_hotwire
